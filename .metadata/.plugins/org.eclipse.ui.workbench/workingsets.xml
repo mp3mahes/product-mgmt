@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472078215111_0" label="product-mgmt" name="product-mgmt">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-rest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-ear" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/product-web" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1472228478693_1" label="Window Working Set" name="Aggregate for window 1472228478692"/>
+</workingSetManager>
